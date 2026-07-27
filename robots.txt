@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-440318.parkwoodthrowingcourses.co.uk/sitemap.xml
